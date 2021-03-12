@@ -17,7 +17,8 @@
 <a href="https://instagram.com/mahmoud.wm.diab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahmoud.wm.diab" height="30" width="40" /></a>
 <a href="https://codepen.io/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abudiab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abudiab" height="30" width="40" /></a>
-</p><a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
+</p>
 
 
 
