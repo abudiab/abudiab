@@ -1,5 +1,5 @@
 ![Header](https://github.com/abudiab/abudiab/blob/main/assets/gif/dancing-crab-cropped.gif "Header")
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
+<h1 align="center">Hi <img src="https://github.com/abudiab/abudiab/blob/main/assets/gif/wave.gif" width="30px" style="max-width:100%;">, I'm Mahmoud</h1>
 <h3 align="center">A software development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abudiab&label=Profile%20views&color=f7b355&style=flat" alt="abudiab" /> </p>
