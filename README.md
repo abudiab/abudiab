@@ -12,13 +12,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abudiab" height="30" width="40" /></a>
-<a href="https://twitter.com/mahmoud_w_diab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mahmoud_w_diab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoud-w-diab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahmoud-w-diab" height="30" width="40" /></a>
+<a href="https://twitter.com/mahmoud_w_diab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mahmoud_w_diab" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmoud.wm.diab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahmoud.wm.diab" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
+<a href="https://codepen.io/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abudiab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abudiab" height="30" width="40" /></a>
 </p>
+<a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="abudiab" /></p>
