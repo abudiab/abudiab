@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abudiab&label=Profile%20views&color=f7b355&style=flat" alt="abudiab" /> </p>
 
-- 🔭 I’m currently working on **becoming a developer 👨‍💻**
+- 🔭 I’m currently working on **learning as much as possible 👨‍💻**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
