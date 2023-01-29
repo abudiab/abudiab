@@ -23,7 +23,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="abudiab" /></p><br>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="abudiab" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en" alt="abudiab" /></p>
