@@ -16,12 +16,13 @@
 
 <br>
 
-
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  <b>Fing me on</b>
 <p align="left">
+
 <a href="https://linkedin.com/in/mahmoud-w-diab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mahmoud-w-diab" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="abudiab" height="30" width="40" /></a>
+
 <a href="https://www.codewars.com/users/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="abudiab" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
 </p>
