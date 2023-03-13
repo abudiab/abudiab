@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning **React.js 👨‍💻**
 
-- 💬 Ask me about **HTML, CSS, JavaScript** <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">
+- 💬 Ask me about **HTML, CSS, JavaScript** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 - 📫 Get in touch at **mahmoud.w.diab@gmail.com**
 
