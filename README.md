@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abudiab&label=Profile%20views&color=f7b355&style=flat" alt="abudiab" /> </p>
 
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
 - 🔭 I’m currently learning **React.js 👨‍💻**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 Get in touch at **mahmoud.w.diab@gmail.com**
+
+<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
