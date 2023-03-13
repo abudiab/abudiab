@@ -17,27 +17,20 @@
 <br>
 
 
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  <b>Fing me on</b>
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-w-diab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mahmoud-w-diab" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="abudiab" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/abudiab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="abudiab" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
+</p>
+
+
+
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="abudiab" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en" alt="abudiab" /></p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Find me on
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud-w-diab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
-
-<p align="center">
-  Made with ❤️ in Palestine
-</p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
