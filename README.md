@@ -24,19 +24,8 @@
 <a href="https://www.hackerrank.com/abudiab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" alt="abudiab" height="30" width="40" /></a>
 </p>
 
-
-<img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/abudiab/abudiab/main/assets/gif/dino.gif">
-
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="abudiab" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en" alt="abudiab" /></p>
-
-<img src="https://raw.githubusercontent.com/abudiab/abudiab/main/assets/gif/banner.png" width="100%">
-<hr/>
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
 
 <p align="center">
   Made with ❤️ in Palestine 🇵🇸.
