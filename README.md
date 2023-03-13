@@ -32,4 +32,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abudiab&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en" alt="abudiab" /></p>
 
+<hr/>
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in Palestine 🇵🇸.
+</p>
+
+-----
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
