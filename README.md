@@ -16,7 +16,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  <b>Fing me on</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  <b>Find me on</b>
 
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-w-diab" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="mahmoud-w-diab" height="30" width="40" /></a>
